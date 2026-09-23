@@ -94,7 +94,7 @@ const LoveLetter = () => {
                     </button>
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[30%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
-                            <span className='munna font-dancingScript md:text-3xl text-xl font-bold text-[#8b0000]'>Dear Ruthika</span>
+                            <span className='munna font-dancingScript md:text-3xl text-xl font-bold text-[#8b0000]'>Dear Angela</span>
                         </div>
                     </div>
                     <div className="munna envelope-folds">
@@ -110,7 +110,7 @@ const LoveLetter = () => {
                         <div className="love_video_card" onClick={togglePlayPause}>
                             <div className="love_video_header">
                                 <span className="video_sparkle">✨</span>
-                                <span className="video_title">Special Birthday Video for Ruthika 💖</span>
+                                <span className="video_title">Special Birthday Video for Angela 💖</span>
                                 <span className="video_sparkle">✨</span>
                             </div>
 

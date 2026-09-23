@@ -29,7 +29,7 @@ const BookCanvas = ({ active, setActive }) => {
                 <div className="card1">
                     <div className="cover-text-wrapper">
                         <h4 className="username">
-                            Dear Ruthika<span className="underline"></span>
+                            Dear Angela<span className="underline"></span>
                         </h4>
                         <h3 className="cover-title">
                             Happy Birthday!
@@ -66,7 +66,7 @@ const BookCanvas = ({ active, setActive }) => {
                         {/* Swapping back to H2 to match the original CSS targeting */}
                         <div className="card2-message-text italic">
                             <article style={{ marginBottom: '12px' }}>
-                                Happy Birthday, our sweetest little Ruthika! 🎂🩷
+                                Happy Birthday, our sweetest little Angela! 🎂🩷
                             </article>
                             <article style={{ marginBottom: '12px' }}>
                                 May your beautiful smile always sparkle like sunshine, and may your little heart always be filled with love, laughter, fun, and magic.
